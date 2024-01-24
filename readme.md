@@ -30,10 +30,12 @@ The project is organized into the following sections:
    - Creation of visualizations using Matplotlib and Seaborn to represent findings.
 
 5. **Summary and Insights:**
+
    - Key insights and observations drawn from the analysis.
 
 ## Files and Directory Structure
 
 - `/main.ipynb`: Jupyter notebook containing the code for each step of the analysis.
 - `/my_spotify_data`: Folder containing the Spotify streaming history datasets for different years.
-- `/readme.md`: This file providing an overview of the project.
+- `/readme.md`: This file provides an overview of the project.
+- `/final_report.md`: This file offers a comprehensive analysis report.
