@@ -22,7 +22,7 @@ The project is organized into the following sections:
 3. **Data Exploration:**
 
    - Distribution analysis of streaming durations, platforms, and countries.
-   - Identification of top tracks, artists, and genres.
+   - Identification of top tracks, artists, and albums.
    - Analysis of streaming habits over time.
 
 4. **Visualization:**
